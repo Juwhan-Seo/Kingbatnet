@@ -1,5 +1,5 @@
 # Kingbatnet
-KAIST 기업인영재교육원 AI 캠프를 갔을 때 팀원들과 만든 <b>킹받넷</b>의 딥러닝 모델링 코드 입니다. gradio로 인터페이스를 구축하였고, pytorch와 transformers, 그리고 diffusers 라이브러리들을 사용하여 모델링 코드를 구축하였습니다.
+KAIST 기업인영재교육원 11기 수료 후 KAIST 기업인영재교육원 AI 캠프를 갔을 때 팀원들과 만든 <b>킹받넷</b>의 딥러닝 모델링 코드 입니다. gradio로 인터페이스를 구축하였고, pytorch와 transformers, 그리고 diffusers 라이브러리들을 사용하여 모델링 코드를 구축하였습니다.
 
 
 <b>코드 분석</b>
